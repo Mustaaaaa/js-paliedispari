@@ -2,7 +2,7 @@
 const user = prompt("Scegli tra pari e dispari!");
 
 // let userchoice = user.value; chiedere informazione ai tutor
-
+/* determinare i due giocatori cosa hanno scelto */
 if (user === "pari") {
     console.log("User ha scelto pari");
     console.log("CPU ha scelto dispari");
